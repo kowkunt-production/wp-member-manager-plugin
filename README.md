@@ -3,9 +3,9 @@ This comprehensive Member Manager plugin provides a complete member lifecycle ma
 
 ## [Understanding the WP-Member-Manager-Plugin-Code](https://github.com/kowkunt-production/wp-member-manager-plugin/blob/main/documentation/Understanding%20the%20WP-Member-Manager-Plugin-Code.md)
 
-## [Export data](https://github.com/kowkunt-production/wp-member-manager-plugin/blob/main/documentation/Export-data.md)
-
 ## [WP-MEMBER-MANAGER Plugin Algorithms Pseudocode](https://github.com/kowkunt-production/wp-member-manager-plugin/blob/main/documentation/wp-member-manager-plugin-code.md)
+
+## [Export data](https://github.com/kowkunt-production/wp-member-manager-plugin/blob/main/documentation/Export-data.md)
 
 ## [Usage](https://github.com/kowkunt-production/wp-member-manager-plugin/blob/main/documentation/Usage.md)
 
